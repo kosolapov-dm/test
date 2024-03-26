@@ -1,3 +1,2 @@
-adasdsadasdadasdsdsds|sdsd
-sdsd
-sdsd
+genome = input()
+print(genome.count(self=))
