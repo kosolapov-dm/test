@@ -7,7 +7,7 @@ def testLogin():
 def testLogoff():
     print("Logoff successful")
 
-@pytest.mark.skip
 
+@pytest.mark.skip
 def testCalc():
     assert 2 + 2 == 4
